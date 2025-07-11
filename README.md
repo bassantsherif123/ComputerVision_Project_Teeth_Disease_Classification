@@ -21,7 +21,8 @@ git clone https://github.com/bassantsherif123/ComputerVision_Project_Teeth_Disea
 - The sidebar includes:
     - Class Probability pie chart
     - Class-wise prediction confidence
-
+- Download the model using the following link, then put it to the __Model__ folder:
+📥 [Download Model File](https://drive.google.com/file/d/1_-PE5EpEGn0I2a2jmfdbtyUt9SKcFqua/view?usp=sharing)
 - If you don't have streamlit previously installed, Use:
 ```
 pip install streamlit
